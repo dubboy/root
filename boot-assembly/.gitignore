@@ -9,8 +9,3 @@ projectFilesBackup/
 *.iml
 *.class
 *.DS_Store
-boot-admin/src/
-boot-eureka/src/test/
-boot-getway/src/
-boot-hystrix/src/
-pom.xml
